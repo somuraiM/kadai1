@@ -89,6 +89,8 @@ footer {
   background-color: darkgreen;
   text-align: center;
   line-height: 100px;
+  position: absolute;
+  bottom: 0;
 }
 
 .footer-text {
