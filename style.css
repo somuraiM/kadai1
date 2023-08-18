@@ -116,8 +116,9 @@ footer {
     width: 100%;
   }
 
-  footer {
-    position: sticky;
+  .container {
+    height: 100%;
   }
+
 
 }
